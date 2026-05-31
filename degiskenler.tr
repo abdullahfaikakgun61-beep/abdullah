@@ -1,0 +1,37 @@
+# Değişkenler ve Veri Türleri
+
+# Metin değişkenleri
+ad = "Ahmet"
+soyad = "Yılmaz"
+şehir = "İstanbul"
+
+# Sayısal değişkenler
+yas = 28
+boy = 180
+kilo = 75.5
+
+# Mantıksal değişkenler
+aktif = doğru
+
+# Ekrana yazdır
+yaz "╔══════════════════════════════╗"
+yaz "║    KİŞİSEL BİLGİLER           ║"
+yaz "╚══════════════════════════════╝"
+
+yaz "Adı: "
+yaz ad
+
+yaz "Soyadı: "
+yaz soyad
+
+yaz "Yaşı: "
+yaz yas
+
+yaz "Boy: "
+yaz boy
+
+yaz "Kilo: "
+yaz kilo
+
+yaz "Şehir: "
+yaz şehir
