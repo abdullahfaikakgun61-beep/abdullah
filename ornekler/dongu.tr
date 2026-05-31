@@ -1,0 +1,8 @@
+# Döngü örneği
+yaz "1'den 5'e kadar sayılar:"
+
+tekrarla 5 kez
+  yaz "Sayı: 1"
+bitir
+
+yaz "Döngü tamamlandı!"

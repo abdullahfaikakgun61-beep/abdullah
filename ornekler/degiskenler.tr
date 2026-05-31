@@ -1,0 +1,9 @@
+# Değişken örneği
+adi = "Ahmet"
+yas = 25
+maaş = 5000.50
+
+yaz "Adı: "
+yaz "$adi"
+yaz "Yaş: "
+yaz "$yas"

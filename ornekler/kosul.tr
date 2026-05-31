@@ -1,0 +1,13 @@
+# Koşul örneği
+x = 10
+
+eğer x > 5 ise
+  yaz "x büyüktür 5"
+bitir
+
+y = 3
+eğer y > 5 ise
+  yaz "y büyüktür 5"
+bitir
+
+yaz "Program bitti"
